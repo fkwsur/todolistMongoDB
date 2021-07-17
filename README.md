@@ -1,6 +1,7 @@
 # todolistMongoDB
 MongoDB를 이용하여 todolist를 구현
-https://mongoosejs.com/docs/api.html#model_Model.findOneAndDelete
+
+https://mongoosejs.com/docs/queries.html
 
 show dbs;
 
